@@ -1,7 +1,3 @@
-Aqui está um **README.md** atualizado e completo, combinando os conteúdos dos três arquivos enviados com melhorias estruturais e uma apresentação mais profissional:
-
----
-
 # 📜 Documentando Projetos Automáticos Utilizando IA 🤖  
 
 ## 📖 Visão Geral  
